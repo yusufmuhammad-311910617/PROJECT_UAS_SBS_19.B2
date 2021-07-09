@@ -9,9 +9,10 @@ PROJECT UAS SISTEM BASIS DATA
 <hr>
 
 ## 1. Menu Register & Login Menggunakan Fungsi MD5 :
-![aa](https://user-images.githubusercontent.com/81587959/125113768-43059680-e113-11eb-9786-55f8e7981cb4.PNG)
-![aaa](https://user-images.githubusercontent.com/81587959/125113779-4567f080-e113-11eb-81bc-a00e636640de.PNG)
-![aaa](https://user-images.githubusercontent.com/81587959/125113787-47ca4a80-e113-11eb-9eb5-a48b21ffce6d.PNG)
+![1](https://user-images.githubusercontent.com/81587959/125113978-8e1fa980-e113-11eb-9f96-1faf78d75156.PNG)
+![2](https://user-images.githubusercontent.com/81587959/125113985-90820380-e113-11eb-98be-fdf201fe6a98.PNG)
+![3](https://user-images.githubusercontent.com/81587959/125113989-924bc700-e113-11eb-86b0-06bb653193f7.PNG)
+
 
 <hr>
 
@@ -28,11 +29,13 @@ PROJECT UAS SISTEM BASIS DATA
 ## 5. Menu CRUD :
 
 ![9](https://user-images.githubusercontent.com/81587959/125113352-c2469a80-e112-11eb-81e3-d6dff0ddd0a1.PNG)
+
 <hr>
 
 ## 6. Menu Laporan & Penyimpanan :
-![11](https://user-images.githubusercontent.com/81587959/125113423-d8ecf180-e112-11eb-8c44-e58d12c12c1c.PNG)
-![10](https://user-images.githubusercontent.com/81587959/125113431-db4f4b80-e112-11eb-947d-7f42cf7919f2.PNG)
+![10](https://user-images.githubusercontent.com/81587959/125114059-aa234b00-e113-11eb-961e-2d45ced4d78e.PNG)
+![11](https://user-images.githubusercontent.com/81587959/125114070-adb6d200-e113-11eb-8869-da5bc9fb4ede.PNG)
+![12](https://user-images.githubusercontent.com/81587959/125114078-b0192c00-e113-11eb-8133-716c1e2ccc93.PNG)
 
 
 
