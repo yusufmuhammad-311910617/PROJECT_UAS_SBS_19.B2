@@ -9,9 +9,10 @@ PROJECT UAS SISTEM BASIS DATA
 <hr>
 
 ## 1. Menu Register & Login Menggunakan Fungsi MD5 :
-![3](https://user-images.githubusercontent.com/81587959/125113028-42b8cb80-e112-11eb-9947-36c93bc1f24c.PNG)
-![2](https://user-images.githubusercontent.com/81587959/125113061-52381480-e112-11eb-999b-b049bc3f43c2.PNG)
-![1](https://user-images.githubusercontent.com/81587959/125113071-57955f00-e112-11eb-89e5-db5016b613b2.PNG)
+![3](https://user-images.githubusercontent.com/81587959/125113639-1cdff680-e113-11eb-8ab9-a2fc9299eaf1.PNG)
+![2](https://user-images.githubusercontent.com/81587959/125113650-20737d80-e113-11eb-9e3b-5e45b5abfe2b.PNG)
+![1](https://user-images.githubusercontent.com/81587959/125113657-22d5d780-e113-11eb-8873-5f76da22cdbf.PNG)
+
 <hr>
 ## 2. Menu Utama Aplikasi Konsep CRUD :
 ![4](https://user-images.githubusercontent.com/81587959/125113137-73006a00-e112-11eb-80f7-fd13b343a3ca.PNG)
