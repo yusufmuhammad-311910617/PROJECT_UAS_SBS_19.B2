@@ -2,9 +2,10 @@
 PROJECT UAS SISTEM BASIS DATA
 
 <hr>
-## NAMA    : Yusuf Muhammad
-## Kelas   : TI.19.B2
-## NIM     : 311910617
+
+# NAMA    : Yusuf Muhammad
+# Kelas   : TI.19.B2
+# NIM     : 311910617
 
 <hr>
 
